@@ -1,0 +1,6 @@
+{
+  "name": "Asia House",
+  "description": "Online shop for premium phone & laptop accessories with real-time inventory tracking, secure payment checkout, and an intuitive user dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
